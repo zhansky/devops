@@ -1,0 +1,15 @@
+{
+    "name": "zan-hakam",
+    "version": "1.0.0",
+    "description": "",
+    "main": "halaman.js",
+    "scripts": {
+      "start": "node halaman.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
